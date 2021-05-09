@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Myroslava Danko",
+  "author": "Povidzion Oleksandr",
   "license": "MIT",
   "dependencies": {
     "-": "0.0.1",
