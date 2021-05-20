@@ -6,16 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Myroslava Danko",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PovOleksandr/TRPZ/tree/main/selenium-main"
+  },
+  "author": "PovOleksandr",
   "license": "MIT",
   "dependencies": {
     "-": "0.0.1",
-    "save-dev": "0.0.1-security",
-    "selenium-webdriver": "^4.0.0-beta.3"
+    "save-dev": "0.0.1-security"
   },
   "devDependencies": {
     "chai": "^4.3.4",
     "cucumber": "^7.0.0-rc.0",
-    "protractor-cucumber-framework": "^8.0.4"
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^8.0.4",
+    "selenium-webdriver": "^3.6.0"
   }
 }
